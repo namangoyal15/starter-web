@@ -1,1 +1,1 @@
-This is another text from local git.
+This is a new file
